@@ -1,3 +1,5 @@
+# alteração só pra testar uma coisa.
+
 # -*- coding: utf-8 -*-
 """Exercicio 1.ipynb
 
@@ -150,3 +152,4 @@ stack.shape
 
 imshow(stack, (1,2,0))
 
+# fim de código
